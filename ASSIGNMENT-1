@@ -1,15 +1,1 @@
-# ASSIGNMENT 1 
-# 2nd Feb,23
 
-
-''' 
-A dictionary is a collection of key-value pairs in Python. 
-It is a mutable, unordered collection that allows you to store and retrieve values based on a unique key.
-Each key in a dictionary must be unique, and it is associated with a specific value.
-'''
-my_dict = {'name': 'John', 'age': 25, 'city': 'New York'}
-print(my_dict['name'])  
-print(my_dict['age'])   
-print(my_dict['city'])
-my_dict['age'] = 26
-print(my_dict['age']) 
